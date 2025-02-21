@@ -33,8 +33,8 @@ I’m continuously learning and improving my data analytics skills. Check out my
 ---
 
 ## 📬 Connect With Me
-- *LinkedIn:* (www.linkedin.com/in/abigael-amuruon-8ba98820b)
-- *Email:* abbieruon.com 
+- *LinkedIn:* **(www.linkedin.com/in/abigael-amuruon-8ba98820b)**
+- *Email:* abbieruon@gmail.com 
 
 💡 Always learning, always growing! 🚀
 https://www.datacamp.com/portfolio/abbieruon
