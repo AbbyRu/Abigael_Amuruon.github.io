@@ -1,4 +1,4 @@
-# Abigael_Amuruon.github.io
+
 # Hi, I'm Abigael Amuruon 👋
 
 ## 📊 Data Analyst | Excel | SQL | Python | Data Visualization
